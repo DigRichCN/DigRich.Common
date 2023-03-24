@@ -3,7 +3,7 @@
   <PropertyGroup>
     <TargetFramework>netstandard2.0</TargetFramework>
     <Title>公共基础库</Title>
-    <Version>1.0.0</Version>
+    <Version>2.0.0</Version>
     <Authors>DigRich</Authors>
     <Company>www.digrich.cn</Company>
     <Description>公共基础库</Description>
