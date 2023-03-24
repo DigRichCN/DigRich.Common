@@ -2,6 +2,14 @@
 
   <PropertyGroup>
     <TargetFramework>netstandard2.0</TargetFramework>
+    <Title>公共基础库</Title>
+    <Version>1.0.0</Version>
+    <Authors>DigRich</Authors>
+    <Company>www.digrich.cn</Company>
+    <Description>公共基础库</Description>
+    <PackageProjectUrl>https://github.com/DigRichCN/DigRich.Common</PackageProjectUrl>
+    <RepositoryUrl>https://github.com/DigRichCN/DigRich.Common</RepositoryUrl>
+    <PackageTags>digrich,common</PackageTags>
   </PropertyGroup>
 
   <ItemGroup>
